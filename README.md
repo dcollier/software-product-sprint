@@ -11,4 +11,4 @@ To get started:
 
 Then follow the on-screen instructions to set up your repo.
 
-Feature A
+Feature B
